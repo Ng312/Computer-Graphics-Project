@@ -1,6 +1,6 @@
 # The Adventure of Cinnamoroll
 
-This application can play an animation titled 'The Adventure of Cinnamoroll' made up of hologram videos of 3D Models. The 3D Models 'Macaron', 'Peach Juice Drink' and 'Police Car' were rendered in Blender while the other models were imported from the Internet. The application is developed in Unity and exported as an APK file, allowing it to be installed and run on mobile devices.
+This application can play an animation titled 'The Adventure of Cinnamoroll' made by hologram videos of 3D Models. The 3D Models 'Macaron', 'Peach Juice Drink' and 'Police Car' were rendered in Blender while the other models were imported from the Internet. The application is developed in Unity and exported as an APK file, allowing it to be installed and run on mobile devices.
 
 ## UI Explanation
 
